@@ -4,5 +4,5 @@ Reverse image
 
 
 <p> James Fell Jmf64@njit.edu </p>
-Jerry Zheng jz565@njit.edu
-David Mosciszko dm634@njit.edu
+<p> Jerry Zheng jz565@njit.edu </p>
+<p> David Mosciszko dm634@njit.edu </p>
