@@ -3,6 +3,6 @@ CS370 Project
 Reverse image
 
 
-James Fell Jmf64@njit.edu 
+<p> James Fell Jmf64@njit.edu </p>
 Jerry Zheng jz565@njit.edu
 David Mosciszko dm634@njit.edu
